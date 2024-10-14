@@ -8,6 +8,9 @@ This project is a volunteer data analysis initiative in collaboration with the G
 ## Data Sources
 The dataset is sourced from the Canada Mortgage and Housing Corporation (CMHC) website.
 
+## PowerBI Dashboard Link:
+https://app.powerbi.com/view?r=eyJrIjoiNDk2NTQwYzctNjc1MC00OWU4LWJlZTUtMDUwNjhlMzM3NmY5IiwidCI6IjIwMDFkMzc2LTA5ZGQtNDM5OC1hZjYwLTY1NzAyMzZhZjk3OSJ9
+
 ## Steps
 ### 1. Data Transformation and Cleaning
 - Used Power Query in Power BI to conduct operations like pivot, unpivot, and appending.
