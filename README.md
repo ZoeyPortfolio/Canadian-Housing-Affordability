@@ -36,7 +36,7 @@ The dashboard provides insights on various aspects of housing affordability, inc
 
 ![image](https://github.com/user-attachments/assets/bd84e582-f9be-4cc1-8985-5b6d348d3f43)
 ![image](https://github.com/user-attachments/assets/bda1a0e1-5ea8-45e0-ace2-580a66c7841d)
-\
+
 
 - Investment Behavior:
   - People with higher incomes tend to invest more in real estate and other assets, showing a direct correlation between income level and investment behavior.
