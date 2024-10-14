@@ -20,7 +20,7 @@ The dashboard provides insights on various aspects of housing affordability, inc
 
 ![image](https://github.com/user-attachments/assets/eb5e46b9-a9e0-46bd-9882-3a744d93fb59)
 \
-\
+
   - People who own without a mortgage tend to have more personal wealth, investments, and business assets compared to those who own with a mortgage.
   - Residents from British Columbia lead in personal wealth, investments, and business assets.
   - Individuals aged 55 to 64 have the highest investments, business assets, and overall wealth, while those aged 25 to 34 have the highest personal wealth in housing.
@@ -28,7 +28,7 @@ The dashboard provides insights on various aspects of housing affordability, inc
 ![image](https://github.com/user-attachments/assets/9f5227ec-372f-4f11-8d11-4abde30b3f29)
 ![image](https://github.com/user-attachments/assets/58aeb7a1-dc9b-4ca3-8588-4a6e79c7cdda)
 \
-\
+
 - Household Income Over Time:
   - Since 2006, household incomes across Canada have generally increased.
   - House owners' average household income peaked in 2020 before declining, while renters' income peaked in 2021 and then decreased.
@@ -37,13 +37,13 @@ The dashboard provides insights on various aspects of housing affordability, inc
 ![image](https://github.com/user-attachments/assets/bd84e582-f9be-4cc1-8985-5b6d348d3f43)
 ![image](https://github.com/user-attachments/assets/bda1a0e1-5ea8-45e0-ace2-580a66c7841d)
 \
-\
+
 - Investment Behavior:
   - People with higher incomes tend to invest more in real estate and other assets, showing a direct correlation between income level and investment behavior.
 
 ![image](https://github.com/user-attachments/assets/be60f030-fd28-4e5f-a36e-5a8894ec17cc)
 \
-\
+
 ### 3. Actionable Insights for stakeholders
 The insights derived from this dashboard can help:
 - Policymakers understand regional disparities and target areas that need more affordable housing initiatives.
