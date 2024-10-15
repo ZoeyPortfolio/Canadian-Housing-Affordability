@@ -52,3 +52,7 @@ The insights derived from this dashboard can help:
 - Policymakers understand regional disparities and target areas that need more affordable housing initiatives.
 - Industry stakeholders analyze market trends to better forecast demand and investment opportunities.
 - The general public gains a clearer understanding of housing affordability and its impact on personal wealth and investment decisions.
+  
+
+### Check out the screenshot of the whole dashboard
+![housing project](https://github.com/user-attachments/assets/2dcbf910-72a3-40ad-9ca3-cb95a84b91e9)
