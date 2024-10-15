@@ -1,6 +1,6 @@
-# 📊 Power BI Canadian Housing Affordability Dashboard
+# 📊 Power BI Canadian Housing Dashboard
 ## Overview
-This project is a volunteer data analysis initiative in collaboration with the GLOCAL Foundation of Canada. The Power BI dashboard is designed to analyze and visualize key trends in Canadian housing affordability, offering actionable insights for policymakers, industry stakeholders, and the general public.
+This project is a volunteer data analysis initiative in collaboration with the GLOCAL Foundation of Canada. The Power BI dashboard is designed to analyze and visualize key trends in Canadian housing and household assets, offering actionable insights for policymakers, industry stakeholders, and the general public.
 
 ## Tools and Technologies
 - Power BI: Data visualization and dashboard design
