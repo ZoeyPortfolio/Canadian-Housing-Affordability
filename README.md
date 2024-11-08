@@ -48,10 +48,14 @@ The dashboard provides insights on various aspects of housing affordability, inc
 
 
 ### 3. Actionable Insights for stakeholders
-The insights derived from this dashboard can help:
-- Policymakers understand regional disparities and target areas that need more affordable housing initiatives.
-- Industry stakeholders analyze market trends to better forecast demand and investment opportunities.
-- The general public gains a clearer understanding of housing affordability and its impact on personal wealth and investment decisions.
+The data-driven decisions:
+- Focus housing affordability policies on provinces with lower income levels or wealth accumulation to balance regional disparities. Tailor financial planning services for high-wealth individuals in British Columbia.
+- Encourage mortgage-free homeownership through incentives like lump-sum payment options or financial literacy programs aimed at accelerating mortgage repayment.
+  * To reduce the principal amount owed on a mortgage, lowering future interest payments and potentially shortening the loan term.
+  * A lump-sum payment is a one-time, large payment made to settle an obligation, debt, or financial commitment in full or in part, instead of breaking it into smaller, periodic payments over time.
+- Design financial products targeting young homeowners for wealth-building, while offering tailored investment opportunities for older age groups nearing retirement.
+- Use projected income growth to inform affordable housing strategies, such as scaling rental assistance programs or introducing affordable homeownership plans during periods of income recovery.
+- Develop investment education programs to help moderate-income households diversify into real estate and other asset classes, reducing wealth inequality.
   
 
 ### Check out the screenshot of the whole dashboard
